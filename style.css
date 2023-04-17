@@ -1,1 +1,15 @@
+p {
+    font-family: DM-Serif-Display;
+}
 
+h1 {
+    font-family: Bebas Neue;
+}
+
+.navbar {
+    background-color: #ffd700;
+}
+
+.title-color {
+    background-color: #B47EDE;
+}
