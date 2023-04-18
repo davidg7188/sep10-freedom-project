@@ -1,15 +1,29 @@
 p {
     font-family: DM-Serif-Display;
+    font-size: 50px;
 }
 
 h1 {
     font-family: Bebas Neue;
+    font-size: 75px;
 }
 
-.navbar {
+.navbar1 {
     background-color: #ffd700;
 }
 
 .title-color {
     background-color: #B47EDE;
+}
+
+.context {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.cards {
+    background-color: white;
+    border-color: black;
+    border-style: solid;
 }
