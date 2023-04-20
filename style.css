@@ -1,6 +1,7 @@
 p {
     font-family: DM-Serif-Display;
     font-size: 25px;
+    color: #FFFFFF;
 }
 
 h1 {
@@ -49,4 +50,25 @@ h1 {
     padding: 100px;
     font-size: 25px;
     border-style: solid;
+}
+
+.hardware {
+    background-color: #9966CB;
+}
+
+.future {
+    background-color: #B47EDE;
+}
+
+.lpt {
+    text-align: right;
+}
+
+.lptP {
+    text-align: left;
+}
+
+.lptBORDER {
+    border-style: solid;
+    border-color: black;
 }
