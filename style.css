@@ -1,6 +1,7 @@
 p {
     font-family: DM-Serif-Display;
     font-size: 25px;
+    padding: 50px;
 }
 
 h1 {
@@ -17,9 +18,7 @@ h1 {
 }
 
 .context {
-  width: 300px;
-  padding: 50px;
-  margin: 20px;
+    margin: 5px;
 }
 
 .cards {
@@ -89,3 +88,11 @@ h1 {
     height: 900px;
 }
 
+img {
+    border: 5px solid #FFFF;
+  }
+
+.card {
+    font-family: DM-Serif-Display;
+    font-size: 25px;
+}
